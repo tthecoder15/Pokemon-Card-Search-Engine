@@ -7,7 +7,7 @@ Built using [the Pokémon TCG API](https://github.com/PokemonTCG/pokemon-tcg-sdk
 A screenshot of the app's search engine.
 
 ![An image of the almost finished rarity filtering checkboxes](/docs/WIP_2.png)
-A screenshot of the app's checkboxes and search feature combined which is almost finished.
+A screenshot of the app's checkboxes and search feature combined which are functional with the "rarity" parameter.
 
 The project is currently paused whilst I finish my intensive studies.
 
